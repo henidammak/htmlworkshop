@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{
+    background-image:url(https://www.tunisienumerique.com/wp-content/uploads/2020/06/victoire-club-sportif-sfaxien-avril-2019-2.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
+
+header {
+   width: 200;
+   text-align: end;
+   background-color: black;
+   
+
+}
+
+a{
+    text-decoration:black;
+    margin-right: 10px;
+    font-size: 2rem;
+    font-family: 'Roboto',arial, sans-serif;
+    color:white;
+}
+main{
+    align-items: center;
+    text-align: center;
+    font-size: large;
+}
+main img{
+    
+        
+        height: 250px;
+}
+main h2{
+    background-color: white;
+    
+}
+main p{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+#Contact{
+    background-color: white;
+    
+}
+footer{
+    
+    color: white;
+    background-color: black;
+    height: 12px;
+    padding: 10px;
+}
